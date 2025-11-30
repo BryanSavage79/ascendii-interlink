@@ -65,3 +65,5 @@ INTERLINK is alive, evolving, and open for co-creation.
 ✦ Open an issue to become a Verified Contributor
 
 Built with ∞ by the Ascendii Nexus — November 2025
+**Community**  
+[Discord: Nexus of Equity](https://discord.gg/e9mWyUJX2) · [Mirror](https://mirror.xyz/ascendii.eth) · [@AscendiiUniverse](https://x.com/AscendiiUniverse)
